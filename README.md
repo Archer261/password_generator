@@ -1,6 +1,6 @@
 ## Password Generator 
 
-[![Password Generator Page](https://github.com/password_generator/develop/images/Screenshot.JPG)](#features)
+![Password Generator Page](https://github.com/password_generator/develop/images/Screenshot.JPG)](#features)
 
 Project: Create a password generator application that generates a password based on criteria selections!
 
